@@ -1,4 +1,4 @@
-<h1 align="center"><b> Burens Omondi<b></h1>
+<h1 align="center"><b> Joy Kirii<b></h1>
 
 ## 🧑 About me:
 
