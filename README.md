@@ -17,7 +17,7 @@ A versatile fast-learning software developer.
 <br />
 
   <summary align="center"><b>🔎 Github Profile Details</b></summary>
-
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Burence1&theme=github_dark" alt="Burens" align = "center"/></p>
 
  <summary align="center"><b>🔥 Github Stats</b></summary>
 <p align="center"><a href="https://github.com/Wakarende/github-readme-stats">
