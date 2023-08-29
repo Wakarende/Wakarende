@@ -7,7 +7,7 @@ A versatile fast-learning software developer.
 
 <h2>🥇 Tech Stack:</h2>
 <br>🔸 FrontEnd - React, ReactNative, Javascript, HTML, CSS
-<br>🔸 BackEnd - Python, Java, Node.js, Express.js
+<br>🔸 BackEnd - Java, Node.js, Express.js
 
 <p>
 
